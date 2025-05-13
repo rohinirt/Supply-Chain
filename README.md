@@ -1,5 +1,7 @@
-# Supply Chain Dashboard
-Tableau Public Link: https://public.tableau.com/app/profile/rohini.tembhurnikar/viz/SupplyChain_17034125066550/PRODUCTS
+# Supply Chain Dashboard 
+
+Tableau Public Link: https://public.tableau.com/app/profile/rohini.tembhurnikar/viz/SupplyChain_17034125066550/PRODUCTS 
+
 This interactive Supply Chain Dashboard provides a comprehensive overview of product and shipping performance, designed for tracking key metrics in supply chain management. The dashboard is divided into two key pages: Products and Shipping, enabling users to monitor stock levels, shipping costs, supplier performance, and customer order patterns at a glance.
 
 ## Dashboard Pages:
